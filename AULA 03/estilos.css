@@ -1,0 +1,24 @@
+/*div{
+    background-color: aqua;
+    color: darkorchid
+}*/
+
+.QuadradoAmarelo{
+    width: 250px; /*largura*/
+    height: 250px; /*altura*/
+    background-color: gold;
+    margin: 20px 10px 30px 40px;
+    color: darkorchid;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.QuadradoVermelho{
+    width: 150px;
+    height: 100px;
+    background-color: red;
+    margin: 20px 10px 30px 40px;
+    color: darkblue;
+    border-radius: 10px;
+    padding: 20px;
+}
