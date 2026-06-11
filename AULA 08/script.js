@@ -5,5 +5,5 @@ function showresult() {
     const sobrenome = document.querySelector("#sobrenome").value;
     const idade = document.querySelector("#idade").value;
     const profissão = document.querySelector("#profissão").value;
-    spanresult.innerHTML = `BEM VINDO ${nome} ${sobrenome}, VOCÊ TEM ${idade} ANOS E TRABALHO COM ${profissão}.`
+    spanresult.innerHTML = `BEM VINDO ${nome} ${sobrenome}, VOCÊ TEM ${idade} ANOS E TRABALHA COM ${profissão}.`
 }
